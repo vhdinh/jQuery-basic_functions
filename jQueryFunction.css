@@ -1,0 +1,52 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+#container {
+	margin: 0 25px;
+}
+
+h1 {
+	text-align: center;
+}
+
+p, h2 {
+	display: inline-block;
+	margin: 10px;
+}
+button	{
+	display: inline-block;
+	width: 150px;
+	height: 35px;
+	margin: 5px 0;
+	text-align: center;
+}
+
+
+.red {
+	color: red;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.italics {
+	font-style: italic;
+}
+
+#togdiv{
+	background: red;
+}
+
+.tog {
+	font-weight: bold;
+	background: yellow;
+}
+
+#hide div, #slided div, #slidet div, #faded div{
+	width: 100px;
+	height: 50px;
+	background: red;
+}
